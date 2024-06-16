@@ -66,7 +66,7 @@
         </div>
 
         <footer>
-            <div>
+            <!-- <div>
                 <img src="#" alt="#">
                 <img src="#" alt="#">
                 <img src="#" alt="#">
@@ -80,6 +80,36 @@
             </div>
             <div>
                 <a href="#">Bandeiras aceitas</a>
+            </div> -->
+            <div>
+                <h2>Visão</h2>
+                <span>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec lorem risus. In imperdiet tellus in ultrices vehicula. Quisque hendrerit dapibus dolor, et pharetra dolor porta vitae. In eu volutpat velit, eget blandit metus. Nullam sollicitudin non lectus viverra dignissim. Curabitur sit amet malesuada nulla. Maecenas eget quam eget nisi aliquam interdum. Cras consectetur ex porttitor libero bibendum blandit vel id neque. Donec vel fringilla purus, sit amet vestibulum tellus.
+
+Ut et porta orci. Pellentesque varius leo nibh, id tempus nibh dignissim eu. Aenean convallis ligula et elit vehicula fermentum. Maecenas sem ante, tincidunt a gravida et, hendrerit a nunc. Aenean nisi nibh, faucibus eleifend purus et, scelerisque tempor lacus. Donec tincidunt efficitur nisl at commodo. Phasellus viverra quis est sit amet rhoncus. Nullam a ipsum et lorem suscipit tincidunt eget vel eros. Duis elementum maximus tristique.
+
+Mauris consectetur felis cursus, rutrum nisi vitae, tristique mauris. Donec luctus urna dapibus accumsan ultricies. Integer id rutrum nisi. Vestibulum nibh erat, hendrerit cursus massa a, feugiat sagittis lectus. Aenean convallis non orci at placerat. Aliquam elementum arcu eget purus auctor, sit amet maximus lacus placerat. Aliquam eu ex lectus. Ut ex justo, porttitor in euismod sit amet, ultrices quis mauris. Aliquam sed lectus nec neque suscipit dapibus sed non nisl.
+                </span>
+            </div>
+            <div>
+                <h2>Missão</h2>
+                <span>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec lorem risus. In imperdiet tellus in ultrices vehicula. Quisque hendrerit dapibus dolor, et pharetra dolor porta vitae. In eu volutpat velit, eget blandit metus. Nullam sollicitudin non lectus viverra dignissim. Curabitur sit amet malesuada nulla. Maecenas eget quam eget nisi aliquam interdum. Cras consectetur ex porttitor libero bibendum blandit vel id neque. Donec vel fringilla purus, sit amet vestibulum tellus.
+
+Ut et porta orci. Pellentesque varius leo nibh, id tempus nibh dignissim eu. Aenean convallis ligula et elit vehicula fermentum. Maecenas sem ante, tincidunt a gravida et, hendrerit a nunc. Aenean nisi nibh, faucibus eleifend purus et, scelerisque tempor lacus. Donec tincidunt efficitur nisl at commodo. Phasellus viverra quis est sit amet rhoncus. Nullam a ipsum et lorem suscipit tincidunt eget vel eros. Duis elementum maximus tristique.
+
+Mauris consectetur felis cursus, rutrum nisi vitae, tristique mauris. Donec luctus urna dapibus accumsan ultricies. Integer id rutrum nisi. Vestibulum nibh erat, hendrerit cursus massa a, feugiat sagittis lectus. Aenean convallis non orci at placerat. Aliquam elementum arcu eget purus auctor, sit amet maximus lacus placerat. Aliquam eu ex lectus. Ut ex justo, porttitor in euismod sit amet, ultrices quis mauris. Aliquam sed lectus nec neque suscipit dapibus sed non nisl.
+                </span>
+            </div>
+            <div>
+                <h2>Valores</h2>
+                <span>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec lorem risus. In imperdiet tellus in ultrices vehicula. Quisque hendrerit dapibus dolor, et pharetra dolor porta vitae. In eu volutpat velit, eget blandit metus. Nullam sollicitudin non lectus viverra dignissim. Curabitur sit amet malesuada nulla. Maecenas eget quam eget nisi aliquam interdum. Cras consectetur ex porttitor libero bibendum blandit vel id neque. Donec vel fringilla purus, sit amet vestibulum tellus.
+
+Ut et porta orci. Pellentesque varius leo nibh, id tempus nibh dignissim eu. Aenean convallis ligula et elit vehicula fermentum. Maecenas sem ante, tincidunt a gravida et, hendrerit a nunc. Aenean nisi nibh, faucibus eleifend purus et, scelerisque tempor lacus. Donec tincidunt efficitur nisl at commodo. Phasellus viverra quis est sit amet rhoncus. Nullam a ipsum et lorem suscipit tincidunt eget vel eros. Duis elementum maximus tristique.
+
+Mauris consectetur felis cursus, rutrum nisi vitae, tristique mauris. Donec luctus urna dapibus accumsan ultricies. Integer id rutrum nisi. Vestibulum nibh erat, hendrerit cursus massa a, feugiat sagittis lectus. Aenean convallis non orci at placerat. Aliquam elementum arcu eget purus auctor, sit amet maximus lacus placerat. Aliquam eu ex lectus. Ut ex justo, porttitor in euismod sit amet, ultrices quis mauris. Aliquam sed lectus nec neque suscipit dapibus sed non nisl.
+                </span>
             </div>
         </footer>
     </body>
